@@ -5,6 +5,7 @@ using static UnityEngine.GraphicsBuffer;
 
 public class AIHoop : MonoBehaviour
 {
+
     public float bounceForce = 1f;
    //public float rotationSpeed = 50f;
     public float rotationDuration = 3f;
